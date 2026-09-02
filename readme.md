@@ -46,10 +46,10 @@ first-principles calculations.
 
 ### Featured Projects
 
-**[DFT — Perovskite Materials Pipeline](https://github.com/RxWhizz/DFT)**
-Automated DFT workflow (GPAW/ASE) for CsPbI₃ polymorphs — relax → SCF → bands → DOS → SOC.
-Includes a scissor correction (PBE + SOC + HSE06) that reaches HSE06+SOC accuracy at
-~1/10th the compute cost, plus a top-8 pipeline comparing ML candidates against DFT ground truth.
+**PEROVOWL**
+**Corpus**
+
+
 
 <!-- Añade aquí tus otros repos (AI, Funs, distribucion-de-particulas-decorada) con una línea de descripción real de cada uno -->
 
