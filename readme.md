@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:eff6ff,100:60a5fa&height=180&text=Luis%20Ochoa&fontSize=38&fontColor=1e3a8a&fontAlign=38&desc=AI%20Researcher%20-%20Physics%20and%20Machine%20Learning%20-%20Materials%20Discovery&descSize=16&descAlign=62&descColor=1e40af)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:eff6ff,100:60a5fa&height=180&text=Luis%20Ochoa&fontSize=38&fontColor=1e3a8a&fontAlign=50&fontAlignY=40&desc=AI%20Researcher%20-%20Physics%20and%20Machine%20Learning%20-%20Materials%20Discovery&descSize=16&descAlign=50&descAlignY=60&descColor=1e40af)
 
 ---
 
