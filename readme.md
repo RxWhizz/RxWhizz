@@ -62,6 +62,6 @@ Includes a scissor correction (PBE + SOC + HSE06) that reaches HSE06+SOC accurac
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/-Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=eff6ff)](mailto:luisologi@gmail.com)
-<!-- Añade aquí tu LinkedIn / sitio personal si quieres incluirlos -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=eff6ff)](https://www.linkedin.com/in/luis-gerardo-ochoa-balderrama-a43b39209)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:eff6ff&height=80&width=100%)
