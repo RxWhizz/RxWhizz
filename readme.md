@@ -4,17 +4,13 @@
 
 ### About Me
 
-I work at the intersection of physics simulation and machine learning — building
+I work at the intersection of physics simulation and machine learning building
 tools that predict and validate the properties of new materials before they're
-ever synthesized. My current focus is comparing DFT (density functional theory)
+ever synthesised. My current focus is comparing density functional theory
 against ML-driven predictions for perovskite candidates, using physics-grounded
 corrections to close the gap between fast approximate models and expensive
 first-principles calculations.
 
-- 🔭 Currently building: DFT automation pipelines for perovskite polymorphs (GPAW/ASE) and ML vs. physics comparison workflows
-- 🎓 Core focus: Computational Materials Science · Machine Learning · Scientific Research Agents
-- 🌱 Always exploring: Open weather/climate datasets, multi-agent research tools
-- 💡 I care about not just predicting materials, but understanding *why* they behave the way they do
 
 ---
 
